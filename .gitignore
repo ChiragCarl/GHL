@@ -1,0 +1,16 @@
+/node_modules/
+*.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+package-lock.json
+/build
+.idea/
+yarn.lock
+.gitconfig
+k8s-1-21-9-do-0-blr1-1645976845721-kubeconfig_qa.yml
+.nyc_output
+coverage
+*.crt
+*.env
+.DS_Store
